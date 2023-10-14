@@ -1,11 +1,9 @@
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=cyan&size=25&center=true&vCenter=true&Time=1000&width=600&height=100&lines=Bem+Vindo+à+Organização+da+UCB+TI"></a>
 </p>
-<p align="center">
-    
+<h3 align="center">
     Apresentação da Organização dos cursos de TI da Universidade Católica de Brasília (UCB).
-
-</p>
+</h3>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Objetivos**
 
