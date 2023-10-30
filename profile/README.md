@@ -19,6 +19,13 @@
     <summary><h2 style="display: inline-block">Tecnologias Utilizadas👨🏻‍💻</h2></summary>
   </ul>
 </div>
+<!-- tutorials -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tutoriais📜</h2></summary>
+      <li><a href="../tutoriais/nomenclaturaRepo.md">tutorial para a adição de um repositório na organização</a></li>
+  </ul>
+</div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
