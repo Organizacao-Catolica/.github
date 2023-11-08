@@ -23,7 +23,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Tutoriais📜</h2></summary>
-      <li><a href="../tutoriais/nomenclaturaRepo.md">tutorial para a adição de um repositório na organização</a></li>
+      <li><a href="https://github.com/Organizacao-Catolica/.github/blob/main/tutoriais/nomenclaturaRepo.md">tutorial para a adição de um repositório na organização</a></li>
   </ul>
 </div>
 <!--tech stack icons-->
