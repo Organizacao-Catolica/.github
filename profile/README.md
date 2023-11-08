@@ -8,17 +8,11 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Objetivos**
 
 - Juntar a comunidade num local em comum.
-- Compartilhar conhecimento por meio de códigos, pesquisa, extensão etc.
+- Compartilhar conhecimento por meio de códigos,pesquisa,extensão etc.
 - Ter um local para que outros cursos ou faculdades possam verificar o que está sendo produzido na nossa universidade.
 
 <!--- stats (end) -->
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologias Utilizadas👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+<br>
 <!-- tutorials -->
 <div id="user-content-toc">
   <ul align="center">
@@ -27,11 +21,23 @@
   </ul>
 </div>
 <!--tech stack icons-->
+
+--- 
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tecnologias Utilizadas👨🏻‍💻</h2></summary>
+  </ul>
+</div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=adonis,ae,ai,alpinejs,androidstudio,angular,ansible,arduino,astro,atom,au,autocad,aws,azure,babel,bash,blender,bootstrap,bots,bsd,c,cassandra,clojure,cloudflare,cmake,codepen,cpp,crystal,cs,css,dart,deno,devto,discord,django,docker,dotnet,dynamodb,eclipse,electron,elixir,emacs,express,fastapi,figma,firebase,flask,flutter,forth,fortran,gamemakerstudio,gatsby,gcp,git,github,gitlab,go,godot,gradle,graphql,gtk,haskell,heroku,hibernate,html,java,jest,jquery,js,kafka,kotlin,kubernetes,laravel,latex,linux,lua,mastodon,materialui,matlab,maven,md,mongodb,mysql,neovim,nestjs,netlify,nextjs,nodejs,ocaml,perl,php,postgres,postman,powershell,pr,prisma,prometheus,ps,py,pytorch,qt,r,rails,raspberrypi,react,redis,redux,regex,ruby,rust,sass,scala,selenium,sequelize,solidjs,spring,sqlite,stackoverflow,svelte,swift,symfony,tailwind,tauri,tensorflow,threejs,ts,unity,unreal,vala,vercel,visualstudio,vite,vscode,vue,wasm,webflow,webpack,wordpress,xd,zig&perline=20" />
   </a>
 </p>
+<br>
+
+---
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -43,9 +49,8 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="COLOCAR O LINK" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="COLOCAR O LINK" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="COLOCAR O LINK" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="COLOCAR O LINK" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+<a href="COLOCAR O LINK" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="linkedin" height="50" width="50" /></a>
+<a href="COLOCAR O LINK" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="instagram" height="50" width="50" /></a>
+<a href="COLOCAR O LINK" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" alt="telegram" height="50" width="50" /></a>
 <a href="COLOCAR O LINK" target="blank"><img align="center" src="https://docs.microsoft.com/pt-br/media/logos/logo_MSTeams.svg" alt="hashnode" height="50" width="50" /></a>
 </p>
