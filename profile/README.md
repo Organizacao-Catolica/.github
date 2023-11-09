@@ -4,11 +4,24 @@
 <h3 align="center">
     Apresentação da Organização dos cursos de TI da Universidade Católica de Brasília (UCB).
 </h3>
+<br>
+<div align="center">
+    
+| Cursos Disponíveis    |
+| :--------: |
+| <p><b>Análise de Desenvolvimento de Sistema</b></p>  | 
+| <p><b>Ciência da Computação</p></b> | 
+| <p><b>Engenharia de software</p></b>    |
+
+</div>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Objetivos**
 
 - Juntar a comunidade num local em comum.
-- Compartilhar conhecimento por meio de códigos,pesquisa,extensão etc.
+- Criar plataformas para os membros partilharem as suas experiências, conhecimentos e melhores práticas.
+- Facilitar a partilha de conhecimentos técnicos e experiência entre os membros da comunidade.
+- Promover uma forte rede de profissionais, especialistas e entusiastas no domínio da tecnologia.
+- Incentivar a colaboração em projectos, contribuições de código aberto e empreendimentos conjuntos.
 - Ter um local para que outros cursos ou faculdades possam verificar o que está sendo produzido na nossa universidade.
 
 <!--- stats (end) -->
