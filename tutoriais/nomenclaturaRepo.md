@@ -11,11 +11,15 @@ Aqui será mostrado um passo a passo de como deve ser feito a adição dos repos
 
 ## Passo 1: Acesso à Página da Organização<a name="passo1"></a>
 
-Na página da organização, clique na aba "Repositórios" no menu à direita. Isso o levará para a lista de repositórios da organização.
+Na página da organização, localize e clique no separador "Repositórios" a esquerda. É aqui que pode ver todos os repositórios da organização.
+
+<img src="./LocalRepositório.png" alt="localização da lista de repositórios"/>
 
 ## Passo 2: Criar um Novo Repositório<a name="passo2"></a>
 
 Na página da lista de repositórios da organização, clique no botão verde "Novo" localizado no canto superior direito. Isso abrirá a página de criação de um novo repositório.
+
+<img src="./novoRepositório.png" alt="localização, na lista dos repositórios, do botão de novo repositório"/>
 
 ## Passo 3: Preencher as Informações do Repositório<a name="passo3"></a>
 
@@ -28,6 +32,8 @@ Preencha as informações básicas do repositório, incluindo:
 - .gitignore: Escolha um arquivo .gitignore adequado para o seu projeto.
 - Licença: Selecione uma licença se desejar (opcional).
 
+<img src="./configRepositório.png" alt="configurações para criar novo repositório"/>
+
 Abaixo das opções de criação, você verá um campo "Owner". Certifique-se de que a organização seja selecionada corretamente.
 
 Depois de preencher as informações, role para baixo e clique no botão "Criar repositório".
@@ -35,3 +41,5 @@ Depois de preencher as informações, role para baixo e clique no botão "Criar 
 ## Passo 4: Configurar Opções Adicionais (opcional)<a name="passo4"></a>
 
 Após criar o repositório, você pode configurar opções adicionais, como as configurações do repositório, colaboradores e assim por diante, na página do repositório.
+<br>
+Agora, você criou com sucesso um repositório dentro de uma organização no GitHub! Você pode usar este repositório para colaborar com outros integrantes da sua organização e gerenciar projetos coletivamente. Lembre-se de clonar o repositório na sua máquina local usando o Git para começar a trabalhar no seu projeto.
