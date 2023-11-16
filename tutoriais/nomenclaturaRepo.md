@@ -26,11 +26,13 @@ Na página da lista de repositórios da organização, clique no botão verde "N
 Preencha as informações básicas do repositório, incluindo:
 
 - Nome do Repositório: Escolha um nome descritivo para o repositório.
-- Descrição: Adicione uma breve descrição do repositório (opcional).
-- Visibilidade: Você pode selecionar entre "Público" ou "Privado" para definir a visibilidade do repositório.
-- Inicialização do README: Selecione esta opção se desejar criar um arquivo <span>README.md</span> inicial.
-- .gitignore: Escolha um arquivo .gitignore adequado para o seu projeto.
-- Licença: Selecione uma licença se desejar (opcional).
+- Descrição: Adicione uma breve descrição do repositório. (OBRIGATÓRIO)
+  - A descrição deve expressar um resumo sobre o que se trata do projeto.
+- Visibilidade: Você pode selecionar **SEMPRE** "Público" para definir a visibilidade do repositório. (OBRIGATÓRIO)
+- Inicialização do README: Selecione esta opção para criar um arquivo **<span>README.md</span>** inicial. (OBRIGATÓRIO)
+    - o **<span>README</span>** deve conter as seguintes informações: nome do estudante, curso que está fazendo, qual semestre que se encontra e, se desejar, alguma forma de contato, como o linkedin.
+- .gitignore: Escolha um arquivo .gitignore adequado para o seu projeto. (OPCIONAL)
+- Licença: Selecione a lincença **MIT** (OBRIGATÓRIO).
 
 <img src="./configRepositório.png" alt="configurações para criar novo repositório"/>
 
