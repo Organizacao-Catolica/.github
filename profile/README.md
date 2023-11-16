@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=cyan&size=25&center=true&vCenter=true&Time=1000&width=600&height=100&lines=Bem+Vindo+à+Organização+da+UCB+TI"></a>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=cyan&size=25&center=true&vCenter=true&Time=1000&width=600&height=100&lines=Bem+Vindo+à+UCBDevCommunity"></a>
 </p>
 <h3 align="center">
     Apresentação da Organização dos cursos de TI da Universidade Católica de Brasília (UCB).
@@ -64,6 +64,5 @@
 <p align="center">
 <a href="COLOCAR O LINK" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="linkedin" height="50" width="50" /></a>
 <a href="COLOCAR O LINK" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="instagram" height="50" width="50" /></a>
-<a href="COLOCAR O LINK" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" alt="telegram" height="50" width="50" /></a>
-<a href="COLOCAR O LINK" target="blank"><img align="center" src="https://docs.microsoft.com/pt-br/media/logos/logo_MSTeams.svg" alt="hashnode" height="50" width="50" /></a>
+<a href="https://t.me/+u6lzIu_sW7M3NDYx" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" alt="telegram" height="50" width="50" /></a>
 </p>
