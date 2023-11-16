@@ -32,7 +32,7 @@ Preencha as informações básicas do repositório, incluindo:
 - Inicialização do README: Selecione esta opção para criar um arquivo **<span>README.md</span>** inicial. (OBRIGATÓRIO)
     - o **<span>README</span>** deve conter as seguintes informações: nome do estudante, curso que está fazendo, qual semestre que se encontra e, se desejar, alguma forma de contato, como o linkedin.
 - .gitignore: Escolha um arquivo .gitignore adequado para o seu projeto. (OPCIONAL)
-- Licença: Selecione a lincença **MIT** (OBRIGATÓRIO).
+- Licença: Selecione a lincença "**MIT License**" (OBRIGATÓRIO).
 
 <img src="./configRepositório.png" alt="configurações para criar novo repositório"/>
 
