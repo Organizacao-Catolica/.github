@@ -2,20 +2,20 @@
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=cyan&size=25&center=true&vCenter=true&Time=1000&width=600&height=100&lines=Bem+Vindo+à+UCBDevCommunity"></a>
 </p>
 <h3 align="center">
-    Apresentação da Organização dos cursos de TI da Universidade Católica de Brasília (UCB).
+    Apresentação da Organização UCBDevCommunity da Universidade Católica de Brasília (UCB).
 </h3>
 <br>
 <div align="center">
     
-| Cursos Disponíveis    |
+| Cursos disponíveis    |
 | :--------: |
-| <p><b>Análise de Desenvolvimento de Sistema</b></p>  | 
+| <p><b>Análise de Desenvolvimento de Sistemas</b></p>  | 
 | <p><b>Ciência da Computação</p></b> | 
-| <p><b>Engenharia de software</p></b>    |
+| <p><b>Engenharia de Software</p></b>    |
 
 </div>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Objetivos**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 60px></picture> **Objetivos**
 
 - Juntar a comunidade num local em comum.
 - Criar plataformas para os membros partilharem as suas experiências, conhecimentos e melhores práticas.
@@ -27,12 +27,13 @@
 <!--- stats (end) -->
 <br>
 <!-- tutorials -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tutoriais📜</h2></summary>
-      <li><a href="https://github.com/Organizacao-Catolica/.github/blob/main/tutoriais/nomenclaturaRepo.md">tutorial para a adição de um repositório na organização</a></li>
-  </ul>
-</div>
+
+## <picture><img src = "https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" width = 80px></picture> **Tutoriais**
+
+- <a href="https://github.com/Organizacao-Catolica/.github/blob/main/tutoriais/increverOrg.md" style="text-decoration:none">tutorial para se inscrever na organização</a>
+<br>
+- <a href="https://github.com/Organizacao-Catolica/.github/blob/main/tutoriais/nomenclaturaRepo.md" style="text-decoration:none">tutorial para a criação de um repositório na organização</a>
+<br>
 <!--tech stack icons-->
 
 --- 
@@ -64,3 +65,14 @@
 <p align="center">
 <a href="https://www.instagram.com/cursosdetiucb/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="instagram" height="50" width="50" /></a>
 </p>
+
+
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h3 style="display: inline-block">Criadores</h3></summary>
+      <li>Gabriel Silva Carneiro <a href="https://www.github.com/Erudhir101" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" alt="Github" height="50" width="25" /></a> <a href="https://www.linkedin.com/in/gabriel-silva-carneiro/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="Linkedin" height="50" width="25" /></a>
+</li>
+      <li>Gustavo David Pinto  <a href="https://github.com/Gustavo-David" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" alt="Github" height="50" width="25" /></a> <a href="https://www.linkedin.com/in/gustavo-david-pinto-1b04a0203/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="Linkedin" height="50" width="25" /></a></li>
+  </ul>
+</div>
+
