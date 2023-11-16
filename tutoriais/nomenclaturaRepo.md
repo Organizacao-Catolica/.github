@@ -25,16 +25,17 @@ Na página da lista de repositórios da organização, clique no botão verde "N
 
 Preencha as informações básicas do repositório, incluindo:
 
-- Nome do Repositório: Escolha um nome descritivo para o repositório.
-- Descrição: Adicione uma breve descrição do repositório. (OBRIGATÓRIO)
-  - A descrição deve expressar um resumo sobre o que se trata do projeto.
-- Visibilidade: Você pode selecionar **SEMPRE** "Público" para definir a visibilidade do repositório. (OBRIGATÓRIO)
-- Inicialização do README: Selecione esta opção para criar um arquivo **<span>README.md</span>** inicial. (OBRIGATÓRIO)
-    - o **<span>README</span>** deve conter as seguintes informações: nome do estudante, curso que está fazendo, qual semestre que se encontra e, se desejar, alguma forma de contato, como o linkedin.
-- .gitignore: Escolha um arquivo .gitignore adequado para o seu projeto. (OPCIONAL)
-- Licença: Selecione a lincença "**MIT License**" (OBRIGATÓRIO).
+1. Nome do Repositório: Escolha um nome descritivo para o repositório.
+1. Descrição: Adicione uma breve descrição do repositório. (OBRIGATÓRIO)
+   - A descrição deve expressar um resumo sobre o que se trata do projeto.
+1. Visibilidade: Você pode selecionar **SEMPRE** "Público" para definir a visibilidade do repositório. (OBRIGATÓRIO)
+1. Inicialização do README: Selecione esta opção para criar um arquivo **<span>README.md</span>** inicial. (OBRIGATÓRIO)
+   - **<span>README</span>** deve conter as seguintes informações: nome do estudante, curso que está fazendo, qual semestre que se encontra e, se desejar, alguma forma de contato, como o linkedin.
+1. .gitignore: Escolha um arquivo .gitignore adequado para o seu projeto. (OPCIONAL)
+1. Licença: Selecione a lincença "**MIT License**" (OBRIGATÓRIO).
+1. Depois disso aperte o botão verde "**Create Repository**".
 
-<img src="./configRepositório.png" alt="configurações para criar novo repositório"/>
+<img src="./RepositorioConfig.png" alt="configurações para criar novo repositório"/>
 
 Abaixo das opções de criação, você verá um campo "Owner". Certifique-se de que a organização seja selecionada corretamente.
 
