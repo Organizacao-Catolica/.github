@@ -62,7 +62,5 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="COLOCAR O LINK" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="linkedin" height="50" width="50" /></a>
-<a href="COLOCAR O LINK" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="instagram" height="50" width="50" /></a>
-<a href="https://t.me/+u6lzIu_sW7M3NDYx" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" alt="telegram" height="50" width="50" /></a>
+<a href="https://www.instagram.com/cursosdetiucb/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="instagram" height="50" width="50" /></a>
 </p>
