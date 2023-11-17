@@ -29,3 +29,5 @@ Digite no campo de insersão o seu usuário do github(Preferência) ou email par
 Vá até o seu email(email digitado no campo, ou email da sua conta do github) e aceite o pedido de inscrição da organização.
 
 <img src="validEmail.png" alt="validação do convite via email"/>
+
+Após isso você estará dentro da nossa comunidade e poderá participar de várias atividades.
