@@ -1,8 +1,8 @@
 <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=cyan&size=25&center=true&vCenter=true&Time=1000&width=600&height=100&lines=Bem+Vindo+à+UCBTICommunity"></a>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=cyan&size=25&center=true&vCenter=true&Time=1000&width=600&height=100&lines=Bem+Vindo+à+UCBTiCommunity"></a>
 </p>
 <h3 align="center">
-    Apresentação da Organização UCBTICommunity da Universidade Católica de Brasília (UCB).
+    Apresentação da Organização UCBTiCommunity da Universidade Católica de Brasília (UCB).
 </h3>
 <br>
 <div align="center">
