@@ -12,7 +12,7 @@ Aqui será mostrado um passo a passo de como deve ser feito para realizar a insc
 
 ## Passo 1: Acessar a página de inscrição<a name="passo1"></a>
 
-Utilizando [esse link para a inscrição na organização](https://www.google.com), você entrará no site para a inscrição.
+Utilizando [esse link para a inscrição na organização](https://ucbticommunity.github.io/Site-Invite/), você entrará no site para a inscrição.
 
 <br>
 
