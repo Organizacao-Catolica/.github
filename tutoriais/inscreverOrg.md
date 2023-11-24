@@ -1,6 +1,6 @@
 # Tutorial para se inscrever na UCBTiCommunity
 
-Aqui será mostrado um passo a passo de como deve ser feito para realizar a inscrição na UCBTiCommunity.
+Aqui será mostrado um passo a passo de como deve ser feito para realizar a inscrição na UCBTICommunity.
 
 ## sumário
 
